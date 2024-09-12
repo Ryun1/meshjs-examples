@@ -1,0 +1,22 @@
+{
+  "name": "meshjs-examples",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ryun1/meshjs-examples.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ryun1/meshjs-examples/issues"
+  },
+  "homepage": "https://github.com/Ryun1/meshjs-examples#readme",
+  "dependencies": {
+    "@meshsdk/core": "^1.7.5"
+  }
+}
